@@ -1,13 +1,14 @@
 * {
     margin: 0;
     padding: 0;
+    width: 100vw;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 header {
     height: 100px;
     background-color: darkred;
-    width: 100%;
+    width: 100vw;
     line-height: 100px;
 }
 #title {
