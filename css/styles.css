@@ -1,0 +1,8 @@
+@import url("reset-style.css");
+@import url("header.css");
+@import url("main.css");
+
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+

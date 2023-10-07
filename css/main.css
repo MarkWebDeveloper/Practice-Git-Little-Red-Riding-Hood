@@ -1,0 +1,20 @@
+main {
+    width: 1000px;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    vertical-align: middle;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+p {
+    margin-bottom: 8px;
+    padding-left: 10%;
+    padding-right: 10%;
+    width: auto;
+    font-size: 18px;
+}
